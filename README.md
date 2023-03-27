@@ -12,6 +12,6 @@ de systèmes de trading et d'autres applications à haute performance.
 En somme, la programmation Java offre une grande polyvalence et une grande flexibilité pour les programmeurs de tous niveaux et est une 
 compétence précieuse pour les professionnels de l'informatique.
 
-# Ce proejt
+# Ce projet
 
 Dans ce petit projet Java nous allons aborder l'ensemble des bases de ce langage de programmation.
